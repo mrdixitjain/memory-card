@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/memory-card-game/static/js/main.2f718575.chunk.js",
+    "main.js.map": "/memory-card-game/static/js/main.2f718575.chunk.js.map",
+    "runtime-main.js": "/memory-card-game/static/js/runtime-main.0183d981.js",
+    "runtime-main.js.map": "/memory-card-game/static/js/runtime-main.0183d981.js.map",
+    "static/js/2.2833b8a2.chunk.js": "/memory-card-game/static/js/2.2833b8a2.chunk.js",
+    "static/js/2.2833b8a2.chunk.js.map": "/memory-card-game/static/js/2.2833b8a2.chunk.js.map",
+    "static/js/3.f960937f.chunk.js": "/memory-card-game/static/js/3.f960937f.chunk.js",
+    "static/js/3.f960937f.chunk.js.map": "/memory-card-game/static/js/3.f960937f.chunk.js.map",
+    "index.html": "/memory-card-game/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/memory-card-game/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2833b8a2.chunk.js.LICENSE.txt": "/memory-card-game/static/js/2.2833b8a2.chunk.js.LICENSE.txt",
+    "static/media/Marvel_Logo.ce377fd3.svg": "/memory-card-game/static/media/Marvel_Logo.ce377fd3.svg",
+    "static/media/antman.fb289e38.jpg": "/memory-card-game/static/media/antman.fb289e38.jpg",
+    "static/media/buck.c44eb2f7.jpg": "/memory-card-game/static/media/buck.c44eb2f7.jpg",
+    "static/media/captain.2a168eac.jpg": "/memory-card-game/static/media/captain.2a168eac.jpg",
+    "static/media/falcon.d3f50e26.jpg": "/memory-card-game/static/media/falcon.d3f50e26.jpg",
+    "static/media/ironman.9c71dff5.jpg": "/memory-card-game/static/media/ironman.9c71dff5.jpg",
+    "static/media/strange.b98ab3a5.jpg": "/memory-card-game/static/media/strange.b98ab3a5.jpg",
+    "static/media/thanos.60cc123e.jpg": "/memory-card-game/static/media/thanos.60cc123e.jpg",
+    "static/media/thor.70c8e888.jpg": "/memory-card-game/static/media/thor.70c8e888.jpg",
+    "static/media/wanda.28d71fef.jpg": "/memory-card-game/static/media/wanda.28d71fef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0183d981.js",
+    "static/js/2.2833b8a2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2f718575.chunk.js"
+  ]
+}
